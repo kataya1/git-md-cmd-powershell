@@ -6,4 +6,8 @@
 - use `tab` allot
 - `echo [thing you wanna type} > .\file.md`  to rewrite or create, >> to append
 - `dir` to list directories use `/s` after to list childs directories in cmd
-- `[command] > file.md` to print the command output in a file
+- `[command] > file.md` to print the command output in a file example `dir > directories.md`
+- `copy` `gal` `/?` `tree`  and attributes for a file `attrib`
+- `md` `rd`
+` `cd ..`
+- `/s` for child directories
